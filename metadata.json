@@ -1,0 +1,6 @@
+{
+  "name": "Biologi Genius – Master TKA Biologi 2026",
+  "description": "Aplikasi web pembelajaran interaktif latihan 30 soal HOTS TKA Biologi 2026 SMA/MA bersama Mister Jo dengan pembahasan ilmiah, cara cepat, dan narator suara bahasa Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
